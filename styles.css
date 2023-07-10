@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     width: 100%;
     background: #EAEAEA;
@@ -59,3 +60,6 @@ footer {
     color: #8F8F8F;
     
 }
+@media (max-width: 764px) {
+     
+  }
